@@ -1,0 +1,61 @@
+.page {
+  background-color: rgba(255, 255, 255, 1);
+  position: relative;
+  width: 1920px;
+  height: 5438px;
+  overflow: hidden;
+}
+
+.block_1 {
+  background-color: rgba(255, 255, 255, 1);
+  width: 4074px;
+  height: 5438px;
+}
+
+.image_1 {
+  width: 1920px;
+  height: 701px;
+}
+
+.image_2 {
+  width: 1920px;
+  height: 565px;
+}
+
+.image_3 {
+  width: 1920px;
+  height: 1110px;
+}
+
+.image-wrapper_1 {
+  width: 4074px;
+  height: 3063px;
+  margin-bottom: 1px;
+}
+
+.image_4 {
+  width: 1920px;
+  height: 600px;
+}
+
+.image_5 {
+  width: 1920px;
+  height: 755px;
+  margin-top: 1px;
+}
+
+.image_6 {
+  width: 1920px;
+  height: 616px;
+}
+
+.image_7 {
+  width: 1920px;
+  height: 570px;
+}
+
+.image_8 {
+  width: 1920px;
+  height: 520px;
+  margin-bottom: 1px;
+}

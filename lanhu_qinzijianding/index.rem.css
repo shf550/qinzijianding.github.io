@@ -1,0 +1,65 @@
+html {
+  font-size: 37.5px;
+}
+
+.page {
+  background-color: rgba(255, 255, 255, 1);
+  position: relative;
+  width: 51.2rem;
+  height: 145.014rem;
+  overflow: hidden;
+}
+
+.block_1 {
+  background-color: rgba(255, 255, 255, 1);
+  width: 108.64rem;
+  height: 145.014rem;
+}
+
+.image_1 {
+  width: 51.2rem;
+  height: 18.694rem;
+}
+
+.image_2 {
+  width: 51.2rem;
+  height: 15.067rem;
+}
+
+.image_3 {
+  width: 51.2rem;
+  height: 29.6rem;
+}
+
+.image-wrapper_1 {
+  width: 108.64rem;
+  height: 81.68rem;
+  margin-bottom: 0.027rem;
+}
+
+.image_4 {
+  width: 51.2rem;
+  height: 16rem;
+}
+
+.image_5 {
+  width: 51.2rem;
+  height: 20.134rem;
+  margin-top: 0.027rem;
+}
+
+.image_6 {
+  width: 51.2rem;
+  height: 16.427rem;
+}
+
+.image_7 {
+  width: 51.2rem;
+  height: 15.2rem;
+}
+
+.image_8 {
+  width: 51.2rem;
+  height: 13.867rem;
+  margin-bottom: 0.027rem;
+}

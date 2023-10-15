@@ -1,0 +1,61 @@
+.page {
+  background-color: rgba(255, 255, 255, 1);
+  position: relative;
+  width: 100vw;
+  height: 283.23vw;
+  overflow: hidden;
+}
+
+.block_1 {
+  background-color: rgba(255, 255, 255, 1);
+  width: 212.19vw;
+  height: 283.23vw;
+}
+
+.image_1 {
+  width: 100vw;
+  height: 36.52vw;
+}
+
+.image_2 {
+  width: 100vw;
+  height: 29.43vw;
+}
+
+.image_3 {
+  width: 100vw;
+  height: 57.82vw;
+}
+
+.image-wrapper_1 {
+  width: 212.19vw;
+  height: 159.54vw;
+  margin-bottom: 0.06vw;
+}
+
+.image_4 {
+  width: 100vw;
+  height: 31.25vw;
+}
+
+.image_5 {
+  width: 100vw;
+  height: 39.33vw;
+  margin-top: 0.06vw;
+}
+
+.image_6 {
+  width: 100vw;
+  height: 32.09vw;
+}
+
+.image_7 {
+  width: 100vw;
+  height: 29.69vw;
+}
+
+.image_8 {
+  width: 100vw;
+  height: 27.09vw;
+  margin-bottom: 0.06vw;
+}
